@@ -1,0 +1,13 @@
+# This is a YAML document
+---
+name: John Doe
+age: 30
+languages:
+  - English
+  - French
+  - Spanish
+address:
+  street: 123 Main St
+  city: Anytown
+  country: USA
+...

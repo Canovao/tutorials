@@ -1,0 +1,4 @@
+name: John Doe
+age: 31
+languages: [English, Spanish, German]
+address: {street: 123 Main St, city: Anytown, country: USA}
